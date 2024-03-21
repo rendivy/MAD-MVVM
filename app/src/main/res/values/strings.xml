@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAD-MVVM</string>
+    <string name="invalid_phone_format">Please enter the phone number in international format starting with +7</string>
+    <string name="exception_message">An error occurred</string>
+</resources>
