@@ -34,7 +34,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import dagger.hilt.android.AndroidEntryPoint
-import ru.yangel.mad_mvvm.ui.state.PhoneNumberValidationError
+import ru.yangel.domain.entity.PhoneNumberValidationError
 import ru.yangel.mad_mvvm.ui.theme.MADMVVMTheme
 import ru.yangel.mad_mvvm.ui.viewModel.PhoneNumberViewModel
 

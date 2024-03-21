@@ -6,9 +6,8 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import ru.yangel.domain.usecase.ConvertPhoneNumberUseCase
 import ru.yangel.domain.usecase.ValidatePhoneNumberUseCase
-import ru.yangel.domain.utils.PhoneNumberConverter
 import ru.yangel.mad_mvvm.ui.state.UiState
-import ru.yangel.mad_mvvm.ui.state.PhoneNumberValidationError
+import ru.yangel.domain.entity.PhoneNumberValidationError
 import javax.inject.Inject
 
 @HiltViewModel
